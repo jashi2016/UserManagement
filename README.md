@@ -18,7 +18,7 @@ http://localhost:8080/getAllUser
 updateUserInfo: to update user details with id of the user
 http://localhost:8080/updateUserInfo/{<userId>}
 
-**pass user details as a object through RequestBody
+**pass user details as a object through RequestBody to udate details
 
 deleteUser: delete existing user with given id
 http://localhost:8080/deleteUser?id=<userId>
